@@ -49,6 +49,7 @@ Before running the project, ensure you have the following:
 1. **Node.js**: Installed on your system.
 2. **npm or yarn**: Installed to manage dependencies.
 3. **API Key**: Obtain a free API key from [OpenWeatherMap](https://openweathermap.org/api).
+4. Open http://localhost:3000 to view it in your browser.
 
 ---
 
