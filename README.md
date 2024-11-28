@@ -1,7 +1,7 @@
 
 # Weather App
 
-A weather application built using **React**, **OpenWeatherMap API**, and styled with **CSS**. The app fetches and displays current weather, weather details, and a 6-day forecast for a specified city. 
+A weather application built using **React**, **OpenWeatherMap API**, and styled with **CSS**. The app fetches and displays current weather, weather details, and a 2-day forecast for a specified city. 
 
 ---
 
@@ -10,7 +10,7 @@ A weather application built using **React**, **OpenWeatherMap API**, and styled 
 - Search for weather information by city.
 - Display current weather details, including temperature, weather condition, and an icon.
 - Show additional weather details like humidity, wind speed, pressure, and max/min temperatures.
-- Display a 6-day weather forecast with daily temperatures and weather icons.
+- Display a 2-day weather forecast with daily temperatures and weather icons.
 - Fully responsive and visually appealing UI with a dynamic background.
 
 ---
